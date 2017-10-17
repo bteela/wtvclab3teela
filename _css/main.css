@@ -9,7 +9,9 @@ html {
 }
 html, body  {
 	margin: 0;
+  background-color: #98FB98;
 }
+
 /* Correct `block` display not defined in IE 8/9.*/
 article,aside,details,figcaption,figure,footer,header,main,nav,section,summary {
   display: block;
